@@ -29,10 +29,7 @@ export const getMealEstimation = async (mealType: string, count: number, menuIte
       body: JSON.stringify({
         contents: [{
           parts: [{ text: prompt }]
-        }],
-        generation_config: {
-          response_mime_type: "application/json"
-        }
+        }]
       })
     });
 
