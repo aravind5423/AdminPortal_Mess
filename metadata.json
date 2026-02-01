@@ -1,0 +1,5 @@
+{
+  "name": "MessEase Admin Portal",
+  "description": "A comprehensive administrative dashboard for managing hostel mess operations, including attendance tracking, leave management, meal planning, and billing, integrated with Firebase and AI-driven food estimation.",
+  "requestFramePermissions": []
+}
